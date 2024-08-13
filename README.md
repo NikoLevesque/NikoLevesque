@@ -19,13 +19,13 @@ I'm **Nikolas**, a driven Computer Science student at the **University of Montre
 ## 🚀 My Projects
 
 ### 🔒 Cybersecurity
-- **[Google Cybersecurity Certificate]()**: Proud completion of the Google Cybersecurity Certificate on Coursera, honing my skills in safeguarding digital assets.
+- **[Google Cybersecurity Certificate]()**: Completion of the Google Cybersecurity Certificate on Coursera, honing my skills in safeguarding digital assets.
 
 ### 📱 Mobile Development
 - **[!RemindMe]()**: A Swift-based iOS productivity app designed to streamline task management and enhance daily efficiency.
 
 ### 💻 Software & Technology
-- **[Robotix]()**: A powerful Java-based robot management tool for individuals and businesses.
+- **[Grade Calculator]()**: A useful Java-based program for students.
 
 ---
 
